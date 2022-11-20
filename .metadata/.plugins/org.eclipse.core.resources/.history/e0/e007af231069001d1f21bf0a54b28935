@@ -1,0 +1,29 @@
+import java.util.Scanner;
+
+public class CondicionalSwitchCase {
+
+	public static void main(String[] args) {
+		
+		int c = 0;
+				
+		Scanner sc = new Scanner(System.in);
+
+		System.out.println("DIGITE A LOGOMARCA: ");
+		c = sc.nextInt();
+		switch(c){
+		
+		case r:
+		System.out.println("RAIA");
+		break;
+		
+		case d:
+		System.out.println("DROGASIL");
+		break;
+		
+		default:
+		System.out.println("FARMASIL MORREU LOKO");
+		break;
+		}
+	}
+
+}

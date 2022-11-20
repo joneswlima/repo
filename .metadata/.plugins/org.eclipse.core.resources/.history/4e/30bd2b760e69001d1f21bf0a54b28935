@@ -1,0 +1,13 @@
+
+public class CondicionalSwitchCase {
+
+	public static void main(String[] args) {
+		
+		int r = 0;
+		int d = 0;
+		
+		Scanner sc = new Scanner.(System.in);
+
+	}
+
+}

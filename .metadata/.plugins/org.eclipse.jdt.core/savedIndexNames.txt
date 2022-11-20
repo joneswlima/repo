@@ -1,0 +1,8 @@
+INDEX VERSION 1.131+/home/pdv/eclipse-meu/.metadata/.plugins/org.eclipse.jdt.core
+2984099420.index
+439150001.index
+1865797976.index
+1459493552.index
+71322269.index
+4260365838.index
+2746499478.index
